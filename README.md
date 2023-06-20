@@ -32,7 +32,7 @@ Insomnia is needed to test the database functions.
     I used code from Section 13 - ORM activities: 6, 8, 12, 14, 28. 
     I received additonal help from tutor Jili Jiang. 
     Jili helped with fixing routes and correcting syntax errors along with running insomnia.
-- [NPM] (https://www.npmjs.com/) was my main reference for code syntax.  
+- [NPM](https://www.npmjs.com) was my main reference for code syntax.  
 
 ## Test
     There is no current Test function.  
