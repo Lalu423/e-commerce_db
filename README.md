@@ -25,7 +25,7 @@ Insomnia is needed to test the database functions.
 
 ### Sample Image
 
-<img src="https://github.com/Lalu423/employee-tracker/blob/main/assets/employee-sample.jpg" height="290" width="313"/>
+<img src="https://github.com/Lalu423/e-commerce_db/blob/main/assets/ORM_samplepic.jpg" height="649" width="423"/>
 
 ## Contribution
     This app was made possible with the help of my instructors and tutors.
